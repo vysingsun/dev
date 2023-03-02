@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Mar 2023 09:59:07 at https://validthemes.tech/themeforest/wordpress/ambrox/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://validthemes.tech/themeforest/wordpress/ambrox/ -O1 "C:\SingWebDesign\VysingSUN" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:00:45	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/ElegantIcons.svg (from https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/elegant-icons.css?ver=1.0)
+10:00:45	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/flaticon.svg (from https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/flaticon-set.css?ver=1.0)
+10:00:45	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/fonts/fa-brands-400.svg (from https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/font-awesome.min.css?ver=5.9.0)
+10:00:45	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/fonts/fa-duotone-900.eot (from https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/font-awesome.min.css?ver=5.9.0)
+10:00:45	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/fonts/fa-duotone-900.eot? (from https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/font-awesome.min.css?ver=5.9.0)
+10:00:45	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/fonts/fa-duotone-900.ttf (from https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/font-awesome.min.css?ver=5.9.0)
+10:00:45	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/fonts/fa-duotone-900.svg (from https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/font-awesome.min.css?ver=5.9.0)
+10:00:45	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/fonts/fa-light-300.ttf (from https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/font-awesome.min.css?ver=5.9.0)
+10:00:45	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/fonts/fa-light-300.svg (from https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/font-awesome.min.css?ver=5.9.0)
+10:00:45	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/fonts/fa-regular-400.svg (from https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/font-awesome.min.css?ver=5.9.0)
+10:00:45	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/fonts/fa-solid-900.svg (from https://validthemes.tech/themeforest/wordpress/ambrox/wp-content/themes/ambrox/assets/css/font-awesome.min.css?ver=5.9.0)
+10:00:46	Warning: 	Moved Permanently for https://validthemes.tech/themeforest/wordpress/ambrox/?p=254
+10:00:46	Warning: 	File has moved from https://validthemes.tech/themeforest/wordpress/ambrox/?p=254 to https://validthemes.tech/themeforest/wordpress/ambrox/considered-imprudence-of-he-friendship-boisterous-duplicate-1/
+10:00:46	Error: 	"Method Not Allowed" (405) at link https://validthemes.tech/themeforest/wordpress/ambrox/xmlrpc.php (from https://validthemes.tech/themeforest/wordpress/ambrox/considered-imprudence-of-he-friendship-boisterous-duplicate-1/)
+10:00:51	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/404 (from https://validthemes.tech/themeforest/wordpress/ambrox/considered-imprudence-of-he-friendship-boisterous-duplicate-1/)
+10:00:59	Warning: 	Moved Permanently for https://validthemes.tech/themeforest/wordpress/ambrox/?p=251
+10:00:59	Warning: 	File has moved from https://validthemes.tech/themeforest/wordpress/ambrox/?p=251 to https://validthemes.tech/themeforest/wordpress/ambrox/considered-imprudence-of-he-friendship-boisterous/
+10:01:00	Warning: 	Moved Permanently for https://validthemes.tech/themeforest/wordpress/ambrox/?p=212
+10:01:00	Warning: 	File has moved from https://validthemes.tech/themeforest/wordpress/ambrox/?p=212 to https://validthemes.tech/themeforest/wordpress/ambrox/discovery-earnestly-public-commanded-mentions/
+10:01:01	Warning: 	Moved Permanently for https://validthemes.tech/themeforest/wordpress/ambrox/?p=289
+10:01:01	Warning: 	File has moved from https://validthemes.tech/themeforest/wordpress/ambrox/?p=289 to https://validthemes.tech/themeforest/wordpress/ambrox/portfolio-dark/
+10:01:01	Warning: 	Moved Permanently for https://validthemes.tech/themeforest/wordpress/ambrox/?p=403
+10:01:01	Warning: 	File has moved from https://validthemes.tech/themeforest/wordpress/ambrox/?p=403 to https://validthemes.tech/themeforest/wordpress/ambrox/contact/
+10:01:01	Warning: 	Moved Permanently for https://validthemes.tech/themeforest/wordpress/ambrox/?p=419
+10:01:01	Warning: 	File has moved from https://validthemes.tech/themeforest/wordpress/ambrox/?p=419 to https://validthemes.tech/themeforest/wordpress/ambrox/faq/
+10:01:01	Warning: 	Moved Permanently for https://validthemes.tech/themeforest/wordpress/ambrox/?p=35
+10:01:01	Warning: 	File has moved from https://validthemes.tech/themeforest/wordpress/ambrox/?p=35 to https://validthemes.tech/themeforest/wordpress/ambrox/all-services/website-design/
+10:01:02	Warning: 	Moved Permanently for https://validthemes.tech/themeforest/wordpress/ambrox/?p=120
+10:01:02	Warning: 	File has moved from https://validthemes.tech/themeforest/wordpress/ambrox/?p=120 to https://validthemes.tech/themeforest/wordpress/ambrox/all-projects/ui-design/
+10:01:03	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/2023/01/28/ (from https://validthemes.tech/themeforest/wordpress/ambrox/all-services/)
+10:01:04	Error: 	"Not Found" (404) at link https://validthemes.tech/themeforest/wordpress/ambrox/2023/01/29/ (from https://validthemes.tech/themeforest/wordpress/ambrox/all-projects/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 57 seconds : 297 links scanned, 273 files written (16117938 bytes overall) [11514741 bytes received at 98416 bytes/sec], 7258651 bytes transferred using HTTP compression in 143 files, ratio 27%, 14.8 requests per connection
+(15 errors, 16 warnings, 0 messages)
